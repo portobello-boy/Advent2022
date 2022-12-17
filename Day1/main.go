@@ -58,7 +58,6 @@ type Elf struct {
 }
 
 // Priority Queue code pulled from https://golang.google.cn/pkg/container/heap/
-
 type PriorityQueueItem struct {
 	elf   Elf
 	index int
