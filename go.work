@@ -1,6 +1,7 @@
 go 1.19
 
 use (
+	./Day11
 	./Day3
 	./Day6
 	./Day9
